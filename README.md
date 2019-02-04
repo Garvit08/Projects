@@ -1,2 +1,2 @@
 # Projects
-Contains Projects.
+Contains Basic Pyhton Projects.
